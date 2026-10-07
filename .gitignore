@@ -1,0 +1,65 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+.venv/
+env/
+ENV/
+
+# Environment & credentials
+
+.env
+.env.*
+*.key
+*.pem
+
+# IDE / Editor
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+
+.pytest_cache/
+.mypy_cache/
+
+# Temporary files
+
+*.tmp
+*.temp
+*.log
+
+# Excel temporary files
+
+~$*.xlsx
+~$*.xls
+
+# Power BI temporary/backup files
+
+*.pbit
+
+# Large/raw files if not intended for GitHub
+
+# raw/
+
+# *.zip
+
+# Project datasets
+Datasets/
+
