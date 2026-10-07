@@ -24,7 +24,7 @@ df["last_review"] = df["last_review"].apply(
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="yashtheranger",
+    password="yoursqlpasswword",
     database="airbnb_analytics"
 )
 
